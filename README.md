@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fmguppy
+- 👋 Hi, I’m Fergus Guppy (@fmguppy or @fergusguppy on X)
 - 👀 I’m interested in Sport and Exercise Science, wearable technology and the use of data from these devices.
 - 🌱 I’m currently learning python having utilised R for a number of years
 - 😄 Pronouns: he/him
